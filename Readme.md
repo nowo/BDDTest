@@ -6,4 +6,4 @@ to run just one feature
 behave Feature/AddItem.feature
 
 appium docs: https://appium.io/docs/en/about-appium/intro/
-behave docs: https://behave.readthedocs.io/en/stable/
+behave docs: https://behave.readthedocs.io/en/stable/tutorial.html
