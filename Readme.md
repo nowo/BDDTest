@@ -1,3 +1,6 @@
+## Bdd Framework Example 
+
+# This repo is made to be an example of how to use bdd framework and appium
 to run all test in feature directory type: behave Feature/
 
 to run just one feature, type : behave Feature/AddItem.feature
